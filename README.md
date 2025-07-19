@@ -1,29 +1,63 @@
 # 👋 Hi, I'm Vedant Rathod
 
 🎓 MCA 2024–26 | Passionate about PHP, Java, WordPress, and Open Source  
-🛠️ Exploring Backend Development and Web Technologies  
-💡 Aspiring Full-Stack Engineer
+💻 Aspiring Software Developer | 🚀 Learning one project at a time!
 
-## 🔧 Technologies I Know
+---
 
-- **Languages:** PHP, Java, JavaScript, HTML, CSS
-- **Databases:** MySQL
-- **Tools:** Git, GitHub, VS Code, XAMPP
-- **Platforms:** WordPress, Windows, Ubuntu
+## 🛠️ Tech Stack
 
-## 📂 Projects I'm Working On
+- **Languages:** PHP, Java, JavaScript, HTML5, CSS3
+- **Database:** MySQL
+- **Tools:** Git, GitHub, XAMPP, VS Code, Bootstrap
+- **Platforms:** WordPress, Windows, Linux
+- **Currently Exploring:** REST APIs, React, AJAX, WordPress Plugin Development
 
-- Simple Contact Form in PHP (coming soon)
-- Student Management App in Java + MySQL
-- Random Quote Plugin for WordPress
+---
 
-## 📌 Goals
+## 💼 Projects I’m Working On
 
-- ✅ Learn WordPress plugin development  
-- ✅ Make my first open-source pull request  
-- 🚀 Build real web applications
+### 🔧 Backend + PHP Projects
+- 🔐 [PHP Login & Signup System](https://github.com/vedantrathod/php-login-system)  
+  Secure user authentication with PHP sessions and MySQL
 
-## 📬 Contact Me
+- 📬 [Simple Contact Form](https://github.com/vedantrathod/simple-contact-form)  
+  A basic PHP form that handles user messages
 
-- [LinkedIn](#)
-- 📧 Email: your.email@example.com
+- 📝 [Mini Blog CMS](https://github.com/vedantrathod/mini-blog-cms) *(coming soon)*  
+  Write, edit, and manage posts in a lightweight PHP CMS
+
+### 🌐 Web Frontend Projects
+- ✅ [To-Do List App (JS + Local Storage)](https://github.com/vedantrathod/todo-list-app)  
+  A browser-based task manager with local storage
+
+- 🌐 [Personal Developer Portfolio](https://github.com/vedantrathod/personal-portfolio) *(coming soon)*  
+  Showcasing my skills, projects, and contact info
+
+- 💱 [Currency Converter Web App](https://github.com/vedantrathod/currency-converter) *(coming soon)*  
+  Converts currencies using real-time API data
+
+### 🧩 WordPress Projects
+- 🔀 [Random Quote Plugin](https://github.com/vedantrathod/wp-random-quote)  
+  A simple shortcode plugin that displays motivational quotes
+
+---
+
+## 🌱 Learning Journey
+
+I'm on a mission to:
+- ✅ Master core PHP and Java fundamentals
+- ✅ Understand how WordPress plugins work
+- ✅ Make meaningful open-source contributions
+- 🔄 Build software used by real users
+- 📚 Explore REST APIs and modern frontend tools
+
+---
+
+## 📬 Contact
+
+📧 Email: vedantrathodnet@gmail.com
+
+---
+
+> ✨ “Build in public. Share everything you learn. Contribute where you can.”  
