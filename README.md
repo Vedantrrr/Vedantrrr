@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Vedant Rathod
 
-<!--
-**Vedantrrr/Vedantrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA 2024–26 | Passionate about PHP, Java, WordPress, and Open Source  
+🛠️ Exploring Backend Development and Web Technologies  
+💡 Aspiring Full-Stack Engineer
 
-Here are some ideas to get you started:
+## 🔧 Technologies I Know
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** PHP, Java, JavaScript, HTML, CSS
+- **Databases:** MySQL
+- **Tools:** Git, GitHub, VS Code, XAMPP
+- **Platforms:** WordPress, Windows, Ubuntu
+
+## 📂 Projects I'm Working On
+
+- Simple Contact Form in PHP (coming soon)
+- Student Management App in Java + MySQL
+- Random Quote Plugin for WordPress
+
+## 📌 Goals
+
+- ✅ Learn WordPress plugin development  
+- ✅ Make my first open-source pull request  
+- 🚀 Build real web applications
+
+## 📬 Contact Me
+
+- [LinkedIn](#)
+- 📧 Email: your.email@example.com
